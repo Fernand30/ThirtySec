@@ -1,0 +1,3 @@
+rootProject.name = 'ThirtySec'
+
+include ':app'
